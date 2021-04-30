@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:7e6df0fda229a13219bbc90ff72a10434a0c64cd7fe13dc534b914247d1087f4
+FROM public.ecr.aws/j1r0q0g6/notebooks/access-management:v1.3.0-rc.1
 MAINTAINER dystudio<david0718@qq.com>
