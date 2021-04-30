@@ -1,0 +1,2 @@
+FROM gcr.io/tfx-oss-public/ml_metadata_store_server:0.25.1
+MAINTAINER dystudio<david0718@qq.com>
